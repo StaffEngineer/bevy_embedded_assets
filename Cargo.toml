@@ -15,6 +15,7 @@ categories = ["game-development"]
 
 [dependencies.bevy]
 git = "https://github.com/bevyengine/bevy"
+rev = "8ec8149"
 default-features = false
 features = ["bevy_asset"]
 
